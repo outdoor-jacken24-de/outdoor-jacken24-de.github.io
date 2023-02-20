@@ -47,11 +47,48 @@
     "seo": {
         "htmlLang": "de",
         "mainKeyword": "Outdoorjacken",
-        "featureText": "<p>Outdoorjacken für Damen und Herren.</p><p>In unserem Shop für Outdoorjacken findest du für jeden Zweck die passende Jacke, egal ob Winterjacke für Damen und Herren, Sportjacke, Daunenjacke, Regenjacke oder Übergangsjacke, auf outdoor-jacken24.de findest du für jede Witterung und Einsatz die richtige Jacke.</p>",
+        "featureText": "<p>Herzlich willkommen bei Outdoor-Jacken24, Ihrem Online-Shop für hochwertige Outdoorjacken! Wir bieten eine breite Auswahl an verschiedenen Jackenarten, die für alle Bedürfnisse und Wetterbedingungen geeignet sind. Von Hardshelljacken und Regenjacken bis hin zu Softshelljacken, Daunenjacken und Übergangsjacken - wir haben alles, was Sie brauchen, um bequem und geschützt bei Ihren Outdoor-Abenteuern zu sein. Stöbern Sie durch unsere Kollektion und finden Sie die perfekte Jacke für Ihre Bedürfnisse.</p>",
         "index": {
             "title": "Outdoorjacken für Damen und Herren",
             "metaDescription": "Die richtige Outdoorjacke für Damen und Herren. Wir führen Winterjacken, Daunenjacken, Softshelljacken, Outdoor-Westen, Funktionsjacken und Winterjacken.",
-            "robots": "index, follow"
+            "robots": "index, follow",
+            "texts": [{
+                    "title": "Willkommen bei Outdoor-Jacken24",
+                    "text": "Outdoor-Jacken24 ist Ihre Anlaufstelle für hochwertige Outdoorjacken in jeder Situation. Ob Regen, Schnee, Wind oder Kälte - wir haben für jedes Wetter die passende Jacke. Entdecken Sie jetzt unser vielfältiges Angebot an Hardshelljacken, Softshelljacken, Daunenjacken, Übergangsjacken, Winterjacken und Doppeljacken."
+                },
+                {
+                    "title": "Hardshelljacken und Regenjacken",
+                    "text": "Bei Outdoor-Jacken24 finden Sie eine große Auswahl an robusten <a href=\"/kategorie/hardshelljacken-und-regenjacken/\" title=\"Hardshelljacken und Regenjacken\">Hardshelljacken und Regenjacken</a>. Diese Jacken sind wasserdicht und atmungsaktiv und bieten optimalen Schutz vor Nässe. Ob für eine Wanderung im Regen oder eine Fahrradtour bei schlechtem Wetter - mit unseren Hardshelljacken und Regenjacken sind Sie immer gut gerüstet."
+                },
+                {
+                    "title": "Outdoor-Westen",
+                    "text": "Für mildere Tage oder als zusätzlicher Schutz bieten wir Ihnen auch <a href=\"/kategorie/outdoor-westen/\" title=\"Outdoor-Westen\">Outdoor-Westen</a> an. Diese Westen sind leicht und bieten dennoch angenehme Wärme. Ob beim Wandern, Radfahren oder Klettern - mit einer Outdoor-Weste sind Sie bestens ausgestattet."
+                },
+                {
+                    "title": "Softshelljacken",
+                    "text": "Unsere <a href=\"/kategorie/softshelljacken/\" title=\"Softshelljacken\">Softshelljacken</a> sind besonders flexibel und bieten dennoch angenehme Wärme. Diese Jacken sind atmungsaktiv und winddicht, was sie zu einer perfekten Wahl für aktive Outdoor-Aktivitäten macht. Entdecken Sie jetzt unser vielfältiges Sortiment an Softshelljacken."
+                },
+                {
+                    "title": "Daunenjacken",
+                    "text": "Bei kalten Temperaturen sind <a href=\"/kategorie/daunenjacken/\" title=\"Daunenjacken\">Daunenjacken</a> eine optimale Wahl. Diese Jacken sind besonders warm und bieten dennoch eine gute Bewegungsfreiheit. Entdecken Sie jetzt unser vielfältiges Angebot an Daunenjacken und bleiben Sie auch bei kalten Temperaturen warm und bequem."
+                },
+                {
+                    "title": "Übergangsjacken",
+                    "text": "<a href=\"/kategorie/uebergangsjacken/\" title=\"Übergangsjacken\">Übergangsjacken</a> sind die perfekte Wahl für den Übergang von Herbst zu Winter oder von Winter zu Frühling. Diese Jacken bieten angenehme Wärme und Schutz vor kühlem Wind. Entdecken Sie jetzt unser vielfältiges Angebot an Übergangsjacken und bleiben Sie auch bei wechselhaftem Wetter warm und bequem."
+                },
+                {
+                    "title": "Winterjacken",
+                    "text": "Für den Winter bieten wir Ihnen eine große Auswahl an warmen <a href=\"/kategorie/winterjacken/\" title=\"Winterjacken\">Winterjacken</a>. Diese Jacken sind besonders isolierend und bieten optimalen Schutz vor Kälte. Ob für eine Skitour oder einen Spaziergang bei kalten Temperaturen - mit einer Winterjacke von Outdoor-Jacken24 sind Sie bestens gerüstet."
+                },
+                {
+                    "title": "Doppeljacken",
+                    "text": "<a href=\"/kategorie/doppeljacken/\" title=\"Doppeljacken\">Doppeljacken</a> sind eine besonders praktische Wahl für Outdoor-Aktivitäten. Diese Jacken bestehen aus einer Innenjacke, die herausgenommen werden kann, und einer wasserdichten Außenjacke. So können Sie je nach Bedarf die Innenjacke tragen oder bei Regen die wasserdichte Außenjacke. Entdecken Sie jetzt unser vielfältiges Angebot an Doppeljacken."
+                },
+                {
+                    "title": "Viel Spaß wünscht Outdoor-Jacken24.de",
+                    "text": "Das war unser Angebot an Outdoorjacken bei Outdoor-Jacken24. Wir hoffen, dass Sie hier die passende Jacke für Ihre Outdoor-Aktivitäten finden. Schauen Sie sich gerne in unserem Online-Shop um und entdecken Sie unser vielfältiges Angebot. Bei Fragen stehen wir Ihnen jederzeit zur Verfügung."
+                }
+            ]
         },
         "shop": {
             "title": "Der Shop für Outdoorjacken",
