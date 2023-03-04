@@ -1,1 +1,51 @@
-[{"key": "hardshelljacken und regenjacken", "name": "Hardshelljacken und Regenjacken", "slug": "hardshelljacken-und-regenjacken", "productCategory": "Hardshelljacken und Regenjacken", "subCategories": []}, {"key": "outdoor-westen", "name": "Outdoor-Westen", "slug": "outdoor-westen", "productCategory": "Outdoor-Westen", "subCategories": []}, {"key": "softshelljacken", "name": "Softshelljacken", "slug": "softshelljacken", "productCategory": "Softshelljacken", "subCategories": []}, {"key": "daunenjacken", "name": "Daunenjacken", "slug": "daunenjacken", "productCategory": "Daunenjacken", "subCategories": []}, {"key": "übergangsjacken", "name": "Übergangsjacken", "slug": "uebergangsjacken", "productCategory": "Übergangsjacken", "subCategories": []}, {"key": "winterjacken", "name": "Winterjacken", "slug": "winterjacken", "productCategory": "Winterjacken", "subCategories": []}, {"key": "doppeljacken", "name": "Doppeljacken", "slug": "doppeljacken", "productCategory": "Doppeljacken", "subCategories": []}]
+[
+    {
+        "key": "hardshelljacken und regenjacken",
+        "name": "Hardshelljacken und Regenjacken",
+        "slug": "hardshelljacken-und-regenjacken",
+        "productCategory": "Hardshelljacken und Regenjacken",
+        "subCategories": []
+    },
+    {
+        "key": "outdoor-westen",
+        "name": "Outdoor-Westen",
+        "slug": "outdoor-westen",
+        "productCategory": "Outdoor-Westen",
+        "subCategories": []
+    },
+    {
+        "key": "softshelljacken",
+        "name": "Softshelljacken",
+        "slug": "softshelljacken",
+        "productCategory": "Softshelljacken",
+        "subCategories": []
+    },
+    {
+        "key": "daunenjacken",
+        "name": "Daunenjacken",
+        "slug": "daunenjacken",
+        "productCategory": "Daunenjacken",
+        "subCategories": []
+    },
+    {
+        "key": "übergangsjacken",
+        "name": "Übergangsjacken",
+        "slug": "uebergangsjacken",
+        "productCategory": "Übergangsjacken",
+        "subCategories": []
+    },
+    {
+        "key": "winterjacken",
+        "name": "Winterjacken",
+        "slug": "winterjacken",
+        "productCategory": "Winterjacken",
+        "subCategories": []
+    },
+    {
+        "key": "doppeljacken",
+        "name": "Doppeljacken",
+        "slug": "doppeljacken",
+        "productCategory": "Doppeljacken",
+        "subCategories": []
+    }
+]
